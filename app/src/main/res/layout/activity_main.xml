@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/stocky_logo"
+        android:layout_marginTop="@dimen/_32sdp"/>
+
+    <Button
+        android:id="@+id/btnProduto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="16"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:layout_gravity="center"
+        android:text="Produtos"/>
+
+    <Button
+        android:id="@+id/btnEstoque"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="16"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:layout_gravity="center"
+        android:text="Estoque"/>
+
+    <Button
+        android:id="@+id/btnHistorico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="16"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:layout_gravity="center"
+        android:text="Histórico"/>
+
+    <Button
+        android:id="@+id/btnPedidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="16"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:layout_gravity="center"
+        android:text="Pedidos"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_60sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:layout_gravity="right"
+        android:text="Created by Alessandro Reis, 2020."
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+</LinearLayout>

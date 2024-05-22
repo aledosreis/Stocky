@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689088377361",
+    "project_id": "stocky-8daad",
+    "storage_bucket": "stocky-8daad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689088377361:android:9f14cde2f0690fb057b7b0",
+        "android_client_info": {
+          "package_name": "com.stocky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689088377361-p7giqm28vat45d0j1fvp9b3b7bft4hug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1A8YgvxRfK3Xi5GOKhu_xvqAKZg_O-aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689088377361-p7giqm28vat45d0j1fvp9b3b7bft4hug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

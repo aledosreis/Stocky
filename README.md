@@ -1,29 +1,17 @@
-# Stocky
+# Stocky - Nativo
 
 Aplicação para controle de estoque.
 
 **Tecnologias utilizadas:**
-* React Native (para a aplicação Mobile)
-* NodeJS (para o backend)
+- Código Nativo construído na Linguagem Java.
 
-**Mobile**
+**Funções existentes na aplicação:**
+- Listagem e cadastro de produtos,
+- Listagem de estoque dos produtos cadastrados,
+- Alteração de Estoque dos produtos cadastrados,
+- Histórico de movimentação de estoque,
+- Montagem da lista de pedidos,
+- Impressão da lista de pedidos,
+- Atualização Automática do app.
 
-Funções existentes na aplicação:
-* Listagem e cadastro de produtos,
-* Listagem de estoque,
-* Entrada e Saída no estoque,
-* Histórico de movimentação,
-* Montagem de pedidos,
-* Impressão de pedidos
-
-**Backend**
-
-Dependências:
-* express
-* cors
-* dotenv
-* knex
-* pg
-* node-cron
-
-DESCONTINUADO DEVIDO A MIGRAÇÃO PARA CÓDIGO NATIVO E FIREBASE
+DESCONTINUADO DEVIDO MIGRAÇÃO PARA LINGUAGEM KOTLIN
