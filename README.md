@@ -1,9 +1,9 @@
-# Stocky - Nativo
+# Stocky
 
 Aplicação para controle de estoque.
 
 **Tecnologias utilizadas:**
-- Código Nativo construído na Linguagem Java.
+- Código Nativo construído na Linguagem Kotlin.
 
 **Funções existentes na aplicação:**
 - Listagem e cadastro de produtos,
@@ -12,6 +12,7 @@ Aplicação para controle de estoque.
 - Histórico de movimentação de estoque,
 - Montagem da lista de pedidos,
 - Impressão da lista de pedidos,
-- Atualização Automática do app.
-
-DESCONTINUADO DEVIDO MIGRAÇÃO PARA LINGUAGEM KOTLIN
+- Atualização Automática do app,
+- Suporte ao modo escuro,
+- Ordenar lista de produtos,
+- Uso offline

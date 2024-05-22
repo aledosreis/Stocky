@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/order_by_name_asc"
+        android:title="@string/order_by_name_asc" />
+    <item android:id="@+id/order_by_name_desc"
+        android:title="@string/order_by_name_desc" />
+    <item android:id="@+id/order_by_qtd_asc"
+        android:title="@string/order_by_qtd_asc" />
+    <item android:id="@+id/order_by_qtd_desc"
+        android:title="@string/order_by_qtd_desc" />
+    <item android:id="@+id/order_by_date_asc"
+        android:title="@string/order_by_date_asc" />
+    <item android:id="@+id/order_by_date_desc"
+        android:title="@string/order_by_date_desc" />
+</menu>
